@@ -1,4 +1,4 @@
 aiogram==3.17.0
-feedparser
-aiohttp
-beautifulsoup4
+feedparser==6.0.11
+aiohttp==3.11.12
+beautifulsoup4==4.12.3
